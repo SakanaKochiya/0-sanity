@@ -1,0 +1,23 @@
+{
+    "therapist": "tầm tấn công rộng nhưng ATK giảm mạnh khi hồi phục đơn vị ở xa",
+    "artificier": "có khả năng chặn 2 kẻ địch và dùng thiết bị hỗ trợ trong trận đấu",
+    "dollkeeper": "thay vì phải rút lui khi bị hạ gục, chuyển thành thế thân (thế thân có block bằng 0, tăng ATK). Sau 20 giây chuyển về bản gốc",
+    "bard": "không tấn công, hồi HP cho tất cả đồng minh trong phạm vi bằng 10% ATK của bản thân mỗi giây",
+    "chain": "đòn tấn công gây sát thương phép và làm chậm trong 0.5 giây. Đòn tấn công có thể nảy sang 4 kẻ địch và sát thương giảm 15% sau mỗi lần nảy",
+    "swordmaster": "đòn tấn công gây sát thương 2 lần",
+    "brawler": "chặn 1 kẻ địch",
+    "core": "đòn tấn công gây sát thương phép",
+    "splash": "đòn tấn công gây sát thương phép trong vùng",
+    "mystic": "đòn tấn công gây sát thương phép. Khi không có kẻ địch trong phạm vi, hồi cầu năng lượng (tối đa 3) và phóng chúng một lượt",
+    "dreadnought": "chặn 1 kẻ địch",
+    "arts_fighter": "đòn tấn công gây sát thương phép",
+    "musha": "không thể được hồi phục bởi operator khác.  Mỗi đòn tấn công hồi phục 70 HP",
+    "mech_accord": "điều khiển drone gây sát thương phép. Khi drone tiếp tục tấn công vào một mục tiêu nhiều lần, tăng sát thương (tối đa đến 110% ATK của operator)",
+    "wandering": "hồi phục đồng minh. Hồi phục sát thương nguyên tố bằng 50% ATK bản thân (Có thể hồi phục sát thương nguyên tố kể cả khi đầy HP)",
+    "blast": "gây sát thương phép trong vùng theo một đường thẳng",
+    "pioneer": "chặn 2 kẻ địch",
+    "charger": "nhận 1 DP mỗi khi hạ gục kẻ địch, trả lại toàn bộ chi phí khi rút lui",
+    "besieger": "ưu tiên tấn công vào địch có weight cao nhất",
+    "lord": "có thể thực hiện các đòn tấn công tầm xa, tuy nhiên sẽ bị giảm còn 80% atk",
+    "standard_bearer": "không chặn địch khi kích hoạt kỹ năng"
+}
