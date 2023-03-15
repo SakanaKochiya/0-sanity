@@ -1,0 +1,6 @@
+{
+    "resist": "Resist: giảm 50% hiệu lực của trạng thái xấu như choáng, đóng băng,...",
+    "abnormal": "Abnormal Status (trạng thái xấu): loại bỏ các hiệu ứng đồng minh đang gặp phải như choáng, đóng băng,...",
+    "charged": "Charged: tiếp tục hồi SP sau khi đạt tối đa. Sau khi SP đạt tối đa lần thứ 2 sẽ gọi là trạng thái Charged. Kích hoạt kỹ năng có Charged sẽ cho thêm hiệu ứng (tiêu hao tất cả SP khi kích hoạt kỹ năng)",
+    "inspire": "Inspire: tăng chỉ số cơ bản dựa trên hiệu ứng (chỉ áp dụng với mỗi hiệu ứng mạnh nhất)"
+}
