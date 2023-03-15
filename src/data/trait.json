@@ -19,5 +19,12 @@
     "charger": "nhận 1 DP mỗi khi hạ gục kẻ địch, trả lại toàn bộ chi phí khi rút lui",
     "besieger": "ưu tiên tấn công vào địch có weight cao nhất",
     "lord": "có thể thực hiện các đòn tấn công tầm xa, tuy nhiên sẽ bị giảm còn 80% atk",
-    "standard_bearer": "không chặn địch khi kích hoạt kỹ năng"
+    "standard_bearer": "không chặn địch khi kích hoạt kỹ năng",
+    "medic": "hồi phục đơn vị đồng minh",
+    "phalanx": "chỉ tấn công khi kích hoạt kỹ năng. Khi không tấn công, +200% DEF, +20 RES. Gây sát thương phép cho tất cả kẻ địch trong phạm vi tấn công",
+    "hookmaster": "có thể kéo kẻ địch và triển khai trên ô dành cho ranged operator",
+    "hexer": "đòn tấn công gây sát thương phép",
+    "duelist": "chỉ hồi SP khi chặn địch",
+    "merchant": "giảm thời gian tái triển khai. Không hoàn trả DP khi rút lui. Tiêu hao 3 DP mỗi 3 giây (tự động rút lui khi không đủ DP)",
+    "spreadshooter": "tấn công tất cả kẻ địch trong tầm tấn công. Sát thương lên đến 150% khi kẻ địch ở hàng phía trước"
 }
