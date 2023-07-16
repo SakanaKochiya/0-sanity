@@ -1,4 +1,12 @@
 {
-    "token": "no",
+    "token": "OTA3ODA0NTA5NDY2NjczMTUy.Gzz0PP.cGY4cmdAX4F6mQ-0tayq15OPiO1PNi0iDjh0Pk",
+    "_token2 nana":"OTY4NTU1MjQ3NjU4MjI1NzQ0.YmgjXQ.hFtMVLGnK5K255VLBLrTjg2CMhY",
+    "_token beta": "OTMxNDYyMjgxNTgwMTUwNzk1.YeEx2Q.obbVFoPXpk50-hStyMUKRKvJ_Y4",
+    "_token testing bot": "OTQzNTIzNDA2NjMxMDIyNjYz.Gohlx1.BmMpBkI9fxgEVV6iON-ksqGrC_EF-M3pGgF9QQ",
+    "_riu token": "OTA3ODA0NTA5NDY2NjczMTUy.Gzz0PP.cGY4cmdAX4F6mQ-0tayq15OPiO1PNi0iDjh0Pk",
     "prefix": ".",
+    "adminRoles": ["931469781234769940","931462231969910794", "834426705250746389", "782914211134570526", "1036629595513958440"],
+    "osu_secret": "kaQlazvuyTqOeWTUgsBKaOgikbxJDMLB19FAhyyc",
+    "osu_id": "13633",
+    "saucenaoAPIkey": "a2f95dae769643d24f7b5e3fdb1e87ed1569bbfb"
 }

@@ -2,5 +2,6 @@
     "resist": "Resist: giảm 50% hiệu lực của trạng thái xấu như choáng, đóng băng,...",
     "abnormal": "Abnormal Status (trạng thái xấu): loại bỏ các hiệu ứng đồng minh đang gặp phải như choáng, đóng băng,...",
     "charged": "Charged: tiếp tục hồi SP sau khi đạt tối đa. Sau khi SP đạt tối đa lần thứ 2 sẽ gọi là trạng thái Charged. Kích hoạt kỹ năng có Charged sẽ cho thêm hiệu ứng (tiêu hao tất cả SP khi kích hoạt kỹ năng)",
-    "inspire": "Inspire: tăng chỉ số cơ bản dựa trên hiệu ứng (chỉ áp dụng với mỗi hiệu ứng mạnh nhất)"
+    "inspire": "Inspire: tăng chỉ số cơ bản dựa trên hiệu ứng (chỉ áp dụng với mỗi hiệu ứng mạnh nhất)",
+    "levitate": "Levitate: hất tung kẻ địch, biến chúng thành mục tiêu trên không và không thể di chuyển, tấn công. Thời gian hất tung giảm một nửa với địch có weight từ 3 trở lên."
 }

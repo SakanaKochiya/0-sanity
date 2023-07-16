@@ -81,7 +81,86 @@
         "pot": "Potential 5 tăng Talent 2",
         "trust": "Trust tăng +50 ATK, +30 DEF"
     },
-    
+    "pudding":{
+        "ovr": "Pudding có khả năng làm chậm tốt hơn Greyy nhờ khả năng lan gần cho các mục tiêu gần kề nhau, không bị phụ thuộc vào việc cần tất cả kẻ địch ở cùng một vị trí để làm chậm qua đòn đánh như cách Greyy làm. Tuy nhiên, sát thương khi nảy qua mỗi mục tiêu sẽ giảm dần đi, và talent đã giảm thiểu đi hậu quả này. Nếu bạn không muốn nâng Splash Caster vì phạm vi tấn công bé, thì Pudding có thể là lựa chọn tốt vì vừa có khả năng khống chế đám đông, đòn tấn công nảy sang kẻ địch khác, phạm vi tấn công bằng Core Caster, và cũng dễ dàng kiếm được.",
+        "s1":{
+            "name": "Skill 1 - Tactical Chant β",
+            "stats": "> Skill total damage: 13970\n> Average DPS: 400\n• Kỹ năng không có gì nổi bật."
+        },
+        "s2":{
+            "name": "Skill 2 - Diffusion Current",
+            "stats": "> Skill total damage: 12573\n> Average DPS: 432\n__Ưu điểm__\n• Khống chế địch tốt.\n• DPS tốt không chỉ với 4 kẻ địch mà còn 2 kẻ địch.\n\n__Nhược điểm__\n• Mastery 3 để chi phí SP giảm đi."
+        },
+        "s3":{
+            "name": "",
+            "stats": ""
+        },
+        "pot": "",
+        "trust": "Trust tăng +70 ATK",
+        "icon": "https://media.discordapp.net/attachments/1000231354149122130/1047192320556142612/image_1.png"
+    },
+    "irene":{
+        "ovr": "Swordmaster đều có điểm yếu lớn nhất là hồi SP qua đòn đánh, nên sẽ có nhiều bất tiện xảy ra khiến cô không phải lựa chọn tốt ở CC high risk. Talent 2 của Irene đã giảm đi điểm yếu lớn này, do đó Irene rất phụ thuộc vào việc Elite 2. Talent 1 giúp cô giảm đi thiệt hại phải nhận khi đối đầu với kẻ địch kể cả có giáp cao, vì cả 3 skill đều có thể Levitate nên Irene là operator có khả năng đột phá nhất trong subclass. Tuy nhiên, hiệu ứng Levitate bị phụ thuộc vào cân nặng của địch. Nhờ vào talent, cô không nhất thiết phải cần thêm hỗ trợ nào khác trong việc trụ đường, Irene vẫn được sử dụng rất tốt trong story, event và IS.",
+        "s1":{
+            "name": "Skill 1 - Gust",
+            "stats": "> Skill total damage: 2896\n> Average DPS: 2011\n__Ưu điểm__\n• Chi phí SP thấp.\n• Dễ dàng kích Talent 1.\n\n__Nhược điểm__\n• Thời gian Levitate quá ngắn.\n• Auto trigger dễ để lại những trường hợp dùng skill không cần thiết.\n• DPS không cao khi gặp phải kẻ địch hạng nặng."
+        },
+        "s2":{
+            "name": "Skill 2 - Shattertide",
+            "stats": "> Skill total damage: 2896\n> Average DPS: 1984\n__Ưu điểm__\n• Chi phí SP thấp.\n• Dễ dàng kích Talent 1.\n• Áp dụng tốt khả năng từ Talent 1\n• Thời gian Levitate lâu.\n• Có thể giữ charges.\n• Làm gián đoạn kỹ năng của địch tốt.\n\n__Nhược điểm__\n• Chỉ Levitate với địch có weight từ 3 trở xuống.\n• Không tấn công kẻ địch trên không."
+        },
+        "s3":{
+            "name": "Skill 3 - Judgment",
+            "stats": "`Nên Mastery 3`\n> Skill total damage: 23892\n> Average DPS: 2365\n__Ưu điểm__\n• DPS cao.\n• Khả năng nuke tốt.\n• Gây sát thương vùng.\n• Thời gian Levitate lâu.\n• Áp dụng tốt khả năng từ Talent 1.\n• Tấn công được kẻ địch trên không.\n\n__Nhược điểm__\n• Chi phí SP cao.\n• Trong khoảng thời gian của animation skill (3.5 giây), vẫn có khả năng chặn kẻ địch, nhận sát thương hoặc kỹ năng bị gián đoạn bởi địch có hiệu ứng Stun."
+        },
+        "pot": "• Potential 5 tăng Talent 2.",
+        "trust": "• Trust tăng +80 ATK, +20 DEF."
+    },
+    "jackie":{
+        "ovr": "Jackie không phải là một lựa chọn tốt kể cả đối với newbie nếu như bạn đang tìm kiếm một người trụ lane tốt và rẻ. Jackie phụ thuộc vào việc né để có DPS tốt hơn, tuy nhiên đây là hành động may rủi và không cần thiết với newbie cũng như khả năng của bộ kỹ năng mang lại khi đi đôi với talent.",
+        "s1":{
+            "name": "Skill 1 - Grit Those Teeth!",
+            "stats": "> Skill total damage: 1525\n> Average DPS: 1094\n__Ưu điểm__\n• Kết hợp với talent tốt.\n\n__Nhược điểm__\n• Kỹ năng không có gì nổi bật."
+        },
+        "s2":{
+            "name": "Skill 2 - Pay Close Attention!",
+            "stats": "> Skill total damage: 42944\n> Average DPS: 1390\n__Ưu điểm__\n• Thích hợp với địch có ASPD cao hoặc tầm xa.\n\n__Nhược điểm__\n• Bỏ qua talent."
+        },
+        "s3":{
+            "name": "",
+            "stats": ""
+        },
+        "pot": "Potential 5 tăng talent.",
+        "trust": "Trust tăng +60 ATK."
+    },
+    "haze":{
+        "ovr": "Một Caster có khả năng cạnh tranh DPS với Click. Tuy nhiên, Haze sẽ yêu cầu về cách triển khai để bỏ đi khuyết điểm mà ở skill 2 có. Haze vẫn là một Core Caster rất tốt với newbie nếu bạn thiếu một operator có khả năng gây sát thương phép và không cần phải tốn nhiều tài nguyên.",
+        "s1":{
+            "name": "Skill 1 - ATK Up β",
+            "stats": "> Skill total damage: 18518\n> Average DPS: 537\n• Kỹ năng không có gì nổi bật."
+        },
+        "s2":{
+            "name": "Skill 2 - Crimson Eyes",
+            "stats": "> Skill total damage: 25720\n> Average DPS: 712\n__Ưu điểm__\n• Chi phí SP thấp.\n• DPS cao.\n• Tăng ASPD giúp tận dụng talent tốt.\n\n__Nhược điểm__\n• HP thấp, khả năng bị hạ gục cao."
+        },
+        "pot": "Potential 5 tăng talent.",
+        "trust": "Trust tăng +60 ATK.",
+        "icon": "https://media.discordapp.net/attachments/1000231354149122130/1047192320556142612/image_1.png"
+    },
+    "gitano":{
+        "ovr": "Một Caster khá thân thiện với newbie trong giai đoạn đầu game. Talent của Gitano sẽ tăng ngẫu nhiên 1 trong 3 chỉ số, tuy nhiên nếu rơi phải vào tăng HP thì đây là một chỉ số không cần thiết với Gitano. Gitano có thể giúp bạn dễ dàng vượt qua những map có quái rất đông ở giai đoạn mở đầu, như một số map ở mục Supply, Annihilation. Và bạn không nhất thiết phải elite 2 Gitano để đạt thêm nguồn sức mạnh, những tài nguyên đó hãy để dành cho operators khác vì càng về sau, khả năng mà Gitano có được lại bị hạn chế đi do SP cao hay talent không có đóng góp gì nhiều.",
+        "s1":{
+            "name": "Skill 1 - Tactical Chant β",
+            "stats": "> Skill total damage: 15642\n> Average DPS: 464\n• Kỹ năng không có gì nổi bật."
+        },
+        "s2":{
+            "name": "Skill 2 - Destiny",
+            "stats": "> Skill total damage: 20856\n> Average DPS: 416\n__Ưu điểm__\n• Mở rộng phạm vi tấn công.\n• Tấn công tất cả mục tiêu trong phạm vi.\n\n__Nhược điểm__\n• Chi phí SP cao."
+        },
+        "pot": "Potential 5 tăng talent.",
+        "trust": "Trust tăng +70 ATK.",
+        "icon": "https://media.discordapp.net/attachments/1000231354149122130/1047191720510632016/Fci712qacAAB8oI.jpg?width=934&height=662"
+    },
     
     
     
